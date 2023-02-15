@@ -1,0 +1,8 @@
+.Socials-Nav{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    color: rgb(20, 20, 20);
+    margin: 0 40%;
+   
+}
